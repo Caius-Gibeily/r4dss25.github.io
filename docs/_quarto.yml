@@ -4,7 +4,7 @@ project:
 website:
   title: "Quarto Live Documentation"
   description: "Interactive code blocks and exercises, powered by WebAssembly."
-  repo-url: https://github.com/r-wasm/quarto-live
+  repo-url: https://github.com/Caius-Gibeily/r4dss25.github.io
   repo-actions: [edit, issue]
   repo-subdir: "docs"
   page-navigation: true
